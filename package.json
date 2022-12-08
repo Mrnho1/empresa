@@ -5,5 +5,8 @@
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1",
     "swiper": "^8.4.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }

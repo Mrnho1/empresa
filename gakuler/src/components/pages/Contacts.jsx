@@ -1,0 +1,25 @@
+import React from "react";
+import Navbar from "./Navbar";
+import '../styles/Contatos.css'
+import CardCon from "./CardCon";
+import Footer from "./Footer";
+
+
+function Contacts(){
+    return(
+        <div>
+            <Navbar/>
+            <section>
+                <div className="container">
+                {/* <h2>Contate-nos</h2> */}
+                <div className="center">
+                <CardCon/>
+                </div>
+                <Footer/>
+                </div>
+            </section>
+        </div>
+    )
+}
+
+export default Contacts

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    background: #efefef;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:300;
+    font-size: 5vh;
+    color: #08629a;
+}
+
+.center{
+    justify-content: center;
+    
+}

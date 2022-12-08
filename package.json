@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "framer-motion": "^7.6.19",
+    "react-hook-form": "^7.40.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^8.4.5"
+  }
+}

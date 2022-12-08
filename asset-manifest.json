@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/empresa/static/css/main.b602bc03.css",
+    "main.js": "/empresa/static/js/main.003ef0f2.js",
+    "static/media/sobre.jpg": "/empresa/static/media/sobre.bbb3a8bf943b09799e19.jpg",
+    "static/media/sobre_page-0001.jpg": "/empresa/static/media/sobre_page-0001.343a666bc233b531973b.jpg",
+    "static/media/sobre2.jpg": "/empresa/static/media/sobre2.f3e668fcac951ed24c5f.jpg",
+    "static/media/Captura de tela_20221207_202841.png": "/empresa/static/media/Captura de tela_20221207_202841.c1de366ab14bef3200d6.png",
+    "static/media/Documento A4 Floral Bege e Branco.png": "/empresa/static/media/Documento A4 Floral Bege e Branco.d0cb975d6f64fa793ec5.png",
+    "static/media/secadoraderoupa.png": "/empresa/static/media/secadoraderoupa.d651db2405447f501227.png",
+    "static/media/Trabalhamos_com_as_marcas_abaixo.png": "/empresa/static/media/Trabalhamos_com_as_marcas_abaixo.dc24c83dc894c6c25a0c.png",
+    "static/media/lavaeseca.png": "/empresa/static/media/lavaeseca.6cffb13fbf4ad0c6a4d7.png",
+    "static/media/LavadoradeRoupa.png": "/empresa/static/media/LavadoradeRoupa.bf52b6db1e28dc87201d.png",
+    "static/media/logo_comfundo.png": "/empresa/static/media/logo_comfundo.6e55c0dc4fc6008d55d4.png",
+    "static/media/GeladeiraDuplex.png": "/empresa/static/media/GeladeiraDuplex.0c7c2d6849b96489e761.png",
+    "static/media/estrelas-removebg-preview.png": "/empresa/static/media/estrelas-removebg-preview.5b3a42b01582a5c37325.png",
+    "static/media/cooktop.png": "/empresa/static/media/cooktop.25e2af6b686add9dcf6f.png",
+    "static/media/fogao.png": "/empresa/static/media/fogao.bd220a470f8c8d59961b.png",
+    "static/media/ApenasOLogo.png": "/empresa/static/media/ApenasOLogo.f9de773ba3fe17451b73.png",
+    "static/media/Geladeira1.png": "/empresa/static/media/Geladeira1.b32d4773f888486a1f8a.png",
+    "static/media/FornoaGas.png": "/empresa/static/media/FornoaGas.d49c2bebe806e473c2ed.png",
+    "static/media/Refrigerador.png": "/empresa/static/media/Refrigerador.dd7af256174ef248631e.png",
+    "index.html": "/empresa/index.html",
+    "main.b602bc03.css.map": "/empresa/static/css/main.b602bc03.css.map",
+    "main.003ef0f2.js.map": "/empresa/static/js/main.003ef0f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b602bc03.css",
+    "static/js/main.003ef0f2.js"
+  ]
+}

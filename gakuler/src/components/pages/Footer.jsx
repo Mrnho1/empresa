@@ -1,58 +1,42 @@
-import React from "react"
-import logo from '../img/logo_comfundo.png'
-import '../styles/Footer.css'
-import {TiSocialFacebook,TiSocialLinkedin,TiSocialGooglePlusCircular,TiSocialInstagram,TiCalendar,TiLocation,TiChevronRightOutline} from 'react-icons/ti';
-
+import logo from "../img/logo_comfundo.png"
+import email from "../img/o-email (1).png"
+import face from "../img/facebook (2).png"
+import insta from "../img/instagram (2).png"
+import "../styles/Footer.css"
 
 function Footer(){
     return(
-        <div>
-            <hr/>
-            <footer >
-                <div className="cor">
-                    <div className="container">
-                        <div className="cards">
-                            <div className="card2">
-                            <img src={logo} alt='footer logo' height={150}></img>
-                           <small><p><TiChevronRightOutline/>Copyright-todos os direitos reservados</p></small>
-                            </div>
-                            <div className="card2">
-                                <ul className="tira">
-                               
-                               <li className="card2"><a href="/Contact">
-                                    <TiSocialFacebook/>
-                                </a>Conecte-se conosco</li>
-                                <li className="card2">  <a href="/Contact">
-                                    <TiSocialInstagram/>
-                                </a> Nos siga nas redes sociais</li>
-                                <li className="card2"><a  href="/Contact">
-                                <TiSocialGooglePlusCircular/>
-                                </a>Entre em contato</li>
-                                
-                                </ul>
-                            </div>
-                            <div className="card2">
-                                <ul className="tira">
-                               
-                               <li className="card2"><a href="/Contact">
-                                    <TiCalendar/>
-                                </a>Agende uma visita</li>
-                                <li className="card2">  <a href="/Contact">
-                                    <TiLocation/>
-                                </a>Venha nos visitar</li>
-                                <li className="card2">  <a  href="/Contact">
-                                    <TiSocialLinkedin/>
-                                </a>Envie seu currículo</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div className="footer-box-discover">
-
-                        </div>
+        <footer>
+            <div className="cont">
+                <ul>
+                    <img className="logo" src={logo} alt='logo' width={300}/>
+                    <p><small>Todos os direitos reservados.</small></p>
+                    <div className="redes">
+                    <a href="/gakuler/src/components/pages/Contacts.jsx"><img src={email} alt='email' width={35}/></a>
+                    <a href="/gakuler/src/components/pages/Contacts.jsx"><img src={face} alt='face' width={35}/></a>
+                    <a href="/gakuler/src/components/pages/Contacts.jsx"><img src={insta} alt='insta' width={35}/></a>
+                    
+                    
+                    
                     </div>
-                </div>
-            </footer>
-        </div>
+                </ul>
+                <ul>
+                    <h3 className="logo">Produtos e Serviços</h3>
+                    <li><a href="#">Máquinas</a></li>
+                    <li><a href="#">Refrigeradores</a></li>
+                    <li><a href="#">Fornos</a></li>
+                    <li><a href="#">Orçamento</a></li>
+                    
+                </ul>
+                <ul>
+                    <h3 className="logo">Suporte</h3>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">Sobre nós</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+                <ul></ul>
+            </div>
+        </footer>
     )
 }
 

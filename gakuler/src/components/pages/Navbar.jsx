@@ -16,12 +16,12 @@ class Navbar extends Component{
             <header>
                 <nav>
                     {/* logo clicável */}
-                    <a href="/"><img src={logo} alt="logo" height={80}/></a>
+                    <a href="/empresa"><img src={logo} alt="logo" height={80}/></a>
                     <div>
                         {/* botões */}
                         <ul id="navbar"
                         className={this.state.clicked ? "#navbar active": "#navbar"}>
-                        <li><a href="/">Home</a></li>
+                        <li><a href="/empresa">Home</a></li>
                         <li><a href="/gakuler/src/components/pages/Company.jsx">Sobre nós</a></li>
                         <li><a href="/gakuler/src/components/pages/Contacts.jsx">Contatos</a></li>
                         <li><a href="/gakuler/src/components/pages/Products.jsx">Produtos</a></li>

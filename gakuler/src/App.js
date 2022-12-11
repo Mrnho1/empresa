@@ -10,7 +10,7 @@ function App() {
       {/* Rotas para a navegação do navbar */}
       <Router>
         <Routes>
-          <Route path='/' element={<Home/>}/>
+          <Route path='/empresa' element={<Home/>}/>
           <Route path='/gakuler/src/components/pages/Company.jsx' element={<Company/>}/>
           <Route path='/gakuler/src/components/pages/Contacts.jsx' element={<Contacts/>}/>
           <Route path='/gakuler/src/components/pages/Products.jsx' element={<Products/>}/>

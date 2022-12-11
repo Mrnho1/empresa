@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/empresa/static/css/main.924fd998.css",
-    "main.js": "/empresa/static/js/main.f25b98f0.js",
+    "main.css": "/empresa/static/css/main.60e0d778.css",
+    "main.js": "/empresa/static/js/main.2c4204c0.js",
     "static/media/sobre.jpg": "/empresa/static/media/sobre.bbb3a8bf943b09799e19.jpg",
     "static/media/sobre_page-0001.jpg": "/empresa/static/media/sobre_page-0001.343a666bc233b531973b.jpg",
     "static/media/sobre2.jpg": "/empresa/static/media/sobre2.f3e668fcac951ed24c5f.jpg",
-    "static/media/Captura de tela_20221207_202841.png": "/empresa/static/media/Captura de tela_20221207_202841.c1de366ab14bef3200d6.png",
-    "static/media/Documento A4 Floral Bege e Branco.png": "/empresa/static/media/Documento A4 Floral Bege e Branco.d0cb975d6f64fa793ec5.png",
+    "static/media/maps.jpg": "/empresa/static/media/maps.85081cb883de33b6cd2d.jpg",
+    "static/media/felix.png": "/empresa/static/media/felix.b79d7bfb364d34b6dabc.png",
     "static/media/secadoraderoupa.png": "/empresa/static/media/secadoraderoupa.d651db2405447f501227.png",
     "static/media/Trabalhamos_com_as_marcas_abaixo.png": "/empresa/static/media/Trabalhamos_com_as_marcas_abaixo.dc24c83dc894c6c25a0c.png",
+    "static/media/horarios.jpg": "/empresa/static/media/horarios.b8195e46c14761b03ef8.jpg",
     "static/media/lavaeseca.png": "/empresa/static/media/lavaeseca.6cffb13fbf4ad0c6a4d7.png",
     "static/media/LavadoradeRoupa.png": "/empresa/static/media/LavadoradeRoupa.bf52b6db1e28dc87201d.png",
     "static/media/logo_comfundo.png": "/empresa/static/media/logo_comfundo.6e55c0dc4fc6008d55d4.png",
@@ -24,11 +25,11 @@
     "static/media/o-email (1).png": "/empresa/static/media/o-email (1).67bda94140af311d041f.png",
     "static/media/facebook (2).png": "/empresa/static/media/facebook (2).9a6e212e214e7aef33e5.png",
     "index.html": "/empresa/index.html",
-    "main.924fd998.css.map": "/empresa/static/css/main.924fd998.css.map",
-    "main.f25b98f0.js.map": "/empresa/static/js/main.f25b98f0.js.map"
+    "main.60e0d778.css.map": "/empresa/static/css/main.60e0d778.css.map",
+    "main.2c4204c0.js.map": "/empresa/static/js/main.2c4204c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.924fd998.css",
-    "static/js/main.f25b98f0.js"
+    "static/css/main.60e0d778.css",
+    "static/js/main.2c4204c0.js"
   ]
 }

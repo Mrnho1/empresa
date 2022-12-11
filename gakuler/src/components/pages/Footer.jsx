@@ -22,17 +22,17 @@ function Footer(){
                 </ul>
                 <ul>
                     <h3 className="logo">Produtos e Serviços</h3>
-                    <li><a href="#">Máquinas</a></li>
-                    <li><a href="#">Refrigeradores</a></li>
-                    <li><a href="#">Fornos</a></li>
-                    <li><a href="#">Orçamento</a></li>
+                    <li><a href="/gakuler/src/components/pages/Products.jsx">Máquinas</a></li>
+                    <li><a href="/gakuler/src/components/pages/Products.jsx">Refrigeradores</a></li>
+                    <li><a href="/gakuler/src/components/pages/Products.jsx">Fornos</a></li>
+                    <li><a href="/gakuler/src/components/pages/Products.jsx">Orçamento</a></li>
                     
                 </ul>
                 <ul>
                     <h3 className="logo">Suporte</h3>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Sobre nós</a></li>
-                    <li><a href="#">Contato</a></li>
+                    <li><a href="/gakuler/src/components/pages/Contacts.jsx">FAQ</a></li>
+                    <li><a href="/gakuler/src/components/pages/Company.jsx">Sobre nós</a></li>
+                    <li><a href="/gakuler/src/components/pages/Contacts.jsx">Contato</a></li>
                 </ul>
                 <ul></ul>
             </div>

@@ -29,6 +29,7 @@ footer .cont ul > p{
 
 footer .cont li{
     margin: 10px 0;
+    list-style: none;
 }
 
 footer .cont a{

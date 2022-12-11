@@ -60,8 +60,8 @@ h2{
 .btn{
     border: none;
     outline: none;
-    background: #08629a;
-    color: #efefef;
+    background: #F2BD1D;
+    color: #000;
     border-radius: 10px;
     max-width: 120px;
     width:100%;
@@ -72,12 +72,12 @@ h2{
     margin-top: 20px;
     cursor: pointer;
     transition: .3s;
-    border: 1px solid #08629a;
+    /* border: 1px solid #08629a; */
 }
 
 .btn:hover{
-    background: transparent;
-    color: #08629a;
+    background: rgb(74, 70, 70);
+    color: #efefef;
 }
 
 

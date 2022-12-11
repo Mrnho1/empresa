@@ -15,9 +15,9 @@ function Contacts(){
                 <div className="center">
                 <CardCon/>
                 </div>
-                <Footer/>
                 </div>
             </section>
+            <Footer/>
         </div>
     )
 }

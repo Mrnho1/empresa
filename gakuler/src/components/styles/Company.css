@@ -1,0 +1,54 @@
+h2{
+    font-size: 35px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.areaImagem{
+    float:left;
+    margin-top:10px;
+}
+
+.areaImagem img{
+    width:200px;
+    border-radius: 90px;
+}
+
+.areaTexto p{
+    float:left;
+    max-width:900px;
+    margin-left:10px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+
+.areaTexto  ul li{
+    list-style: none;
+    padding: 2px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    border-bottom: 3px dashed #08629a;
+
+}
+
+.areaTexto  ul{
+    padding-bottom: 80px;
+    
+}
+
+
+/* p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+    margin-right: 600px;
+    margin-left: 150px;
+} */
+
+/* section .container-flx img{
+    justify-items: baseline;
+} */

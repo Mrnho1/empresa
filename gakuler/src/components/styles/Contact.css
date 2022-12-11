@@ -1,0 +1,36 @@
+.lista{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista ul{
+    width: 25%;
+    background-color: #08629a;
+    padding: 10px;
+    border-style: double;
+}
+
+.lista h3{
+    margin-bottom: 16px;
+    font-weight: 600;
+    
+}
+
+.lista li{
+    margin: 10px 0;
+    list-style: none;
+
+}
+
+
+@media(max-width: 965px){
+
+    .lista{
+        flex-direction: column;
+    }
+    .lista ul{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    }

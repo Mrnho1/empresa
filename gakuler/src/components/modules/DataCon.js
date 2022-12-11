@@ -1,5 +1,5 @@
-import img1 from '../img/Captura de tela_20221207_202841.png'
-import img2 from '../img/Documento A4 Floral Bege e Branco.png'
+import img1 from '../img/maps.jpg'
+import img2 from '../img/horarios.jpg'
 
 
 const dataCon = [

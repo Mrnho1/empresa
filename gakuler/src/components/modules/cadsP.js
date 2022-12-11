@@ -50,14 +50,14 @@ const cards = [
         text: 'Manutenção, reparo, conserto, instalação de cooktop, linha doméstica modelos Clean, Ative e Gourmand.',
     },
     {
-        src: image8,
-        title: 'Forno a Gás.',
-        text: 'Manutenção, reparo, conserto, instalação, de forno, linha doméstica modelos Clean, Ative e Gourmand..',
-    },
-    {
         src: image9,
         title: 'Fogão.',
-        text: 'Manutenção, reparo, conserto, instalação de fogão, linha doméstica modelos Clean, Ative, Ative Top Glass e Gourmand..',
+        text: 'Manutenção, reparo, conserto, instalação de fogão, linha doméstica modelos Clean,Top Glass.',
+    },
+    {
+        src: image8,
+        title: 'Forno a Gás.',
+        text: 'Manutenção, reparo, conserto, instalação, de forno, linha doméstica modelos Clean, Ative e Gourmand. ',
     },
 ];
 

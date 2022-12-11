@@ -1,0 +1,6 @@
+@media(max-width: 600px){
+    .cartao{
+        flex:0 0 100%;
+        max-width: 85%;
+    }
+}

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/empresa/static/css/main.b602bc03.css",
-    "main.js": "/empresa/static/js/main.003ef0f2.js",
+    "main.css": "/empresa/static/css/main.924fd998.css",
+    "main.js": "/empresa/static/js/main.f25b98f0.js",
     "static/media/sobre.jpg": "/empresa/static/media/sobre.bbb3a8bf943b09799e19.jpg",
     "static/media/sobre_page-0001.jpg": "/empresa/static/media/sobre_page-0001.343a666bc233b531973b.jpg",
     "static/media/sobre2.jpg": "/empresa/static/media/sobre2.f3e668fcac951ed24c5f.jpg",
@@ -20,12 +20,15 @@
     "static/media/Geladeira1.png": "/empresa/static/media/Geladeira1.b32d4773f888486a1f8a.png",
     "static/media/FornoaGas.png": "/empresa/static/media/FornoaGas.d49c2bebe806e473c2ed.png",
     "static/media/Refrigerador.png": "/empresa/static/media/Refrigerador.dd7af256174ef248631e.png",
+    "static/media/instagram (2).png": "/empresa/static/media/instagram (2).cec5736859c50a5a0dc7.png",
+    "static/media/o-email (1).png": "/empresa/static/media/o-email (1).67bda94140af311d041f.png",
+    "static/media/facebook (2).png": "/empresa/static/media/facebook (2).9a6e212e214e7aef33e5.png",
     "index.html": "/empresa/index.html",
-    "main.b602bc03.css.map": "/empresa/static/css/main.b602bc03.css.map",
-    "main.003ef0f2.js.map": "/empresa/static/js/main.003ef0f2.js.map"
+    "main.924fd998.css.map": "/empresa/static/css/main.924fd998.css.map",
+    "main.f25b98f0.js.map": "/empresa/static/js/main.f25b98f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b602bc03.css",
-    "static/js/main.003ef0f2.js"
+    "static/css/main.924fd998.css",
+    "static/js/main.f25b98f0.js"
   ]
 }

@@ -22,9 +22,9 @@ class Navbar extends Component{
                         <ul id="navbar"
                         className={this.state.clicked ? "#navbar active": "#navbar"}>
                         <li><a href="/empresa">Home</a></li>
-                        <li><a href="/empresa/Company">Sobre nós</a></li>
-                        <li><a href="/empresa/Contacts">Contatos</a></li>
-                        <li><a href="/empresa/Products">Produtos</a></li>
+                        <li><a href="/Company">Sobre nós</a></li>
+                        <li><a href="/Contacts">Contatos</a></li>
+                        <li><a href="/Products">Produtos</a></li>
                         </ul>
                     </div>
                     {/* divisão para criar o botão de navegação mobile */}

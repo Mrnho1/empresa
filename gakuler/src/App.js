@@ -11,9 +11,9 @@ function App() {
       <Router>
         <Routes>
           <Route path='/empresa' element={<Home/>}/>
-          <Route path='/gakuler/src/components/pages/Company.jsx' element={<Company/>}/>
-          <Route path='/gakuler/src/components/pages/Contacts.jsx' element={<Contacts/>}/>
-          <Route path='/gakuler/src/components/pages/Products.jsx' element={<Products/>}/>
+          <Route path='/empresa/Company.jsx' element={<Company/>}/>
+          <Route path='/empresa/Contacts.jsx' element={<Contacts/>}/>
+          <Route path='/empresa/Products.jsx' element={<Products/>}/>
         </Routes>
       </Router>
     </div>

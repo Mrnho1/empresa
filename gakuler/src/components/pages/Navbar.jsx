@@ -22,9 +22,9 @@ class Navbar extends Component{
                         <ul id="navbar"
                         className={this.state.clicked ? "#navbar active": "#navbar"}>
                         <li><a href="/empresa">Home</a></li>
-                        <li><a href="/gakuler/src/components/pages/Company.jsx">Sobre nós</a></li>
-                        <li><a href="/gakuler/src/components/pages/Contacts.jsx">Contatos</a></li>
-                        <li><a href="/gakuler/src/components/pages/Products.jsx">Produtos</a></li>
+                        <li><a href="/empresa/Company.jsx">Sobre nós</a></li>
+                        <li><a href="/empresa/Contacts.jsx">Contatos</a></li>
+                        <li><a href="/empresa/Products.jsx">Produtos</a></li>
                         </ul>
                     </div>
                     {/* divisão para criar o botão de navegação mobile */}

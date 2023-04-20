@@ -21,8 +21,9 @@ class Navbar extends Component{
                         {/* botões */}
                         <ul id="navbar"
                         className={this.state.clicked ? "#navbar active": "#navbar"}>
-                        <li><a href="/empresa">Home</a></li>
-                        <li><a href="/company">Sobre nós</a></li>
+                        <li><Link to='/empresa'>Home</Link></li>
+                        <li><Link to='/company'>Sobre</Link></li>
+              
                         <li><a href="/contacts">Contatos</a></li>
                         <li><a href="/products">Produtos</a></li>
                         </ul>
